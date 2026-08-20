@@ -1,0 +1,6 @@
+{
+  "name": "Roll With Me Bakery - Cinnamon Rolls & Custom Bakes Booking",
+  "description": "Artisan cinnamon rolls, custom bakery pans, mobile dessert cart catering, and bespoke order booking for Roll With Me Bakery (Lauren's Bakesy Shop).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
